@@ -273,6 +273,15 @@ If you find Career Copilot AI interesting:
 
 ---
 
+
+
+https://github.com/user-attachments/assets/140faf7f-fabb-432b-a09e-2cfe669f7deb
+
+
+
+
+
+
 ### 🚀 Built with Python, FastAPI, Groq & Agentic AI
 
 **Turning AI Knowledge Into Real-World Applications.**
